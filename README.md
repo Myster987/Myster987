@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Myster987
 👀 I’m interested in web dev\
-🌱 I’m currently learning Next.js, Node.js and Tailwindcss\
-🐱‍👤 My skills:
+🌱 I’m currently learning Svelte, Sveltekit and Node.js\
+ My skills:
   - Python
   - C++
   - SQL 
@@ -9,3 +9,4 @@
   - CSS
   - JavaScript
   - React
+  - Tailwindcss
